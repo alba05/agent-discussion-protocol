@@ -1,0 +1,15 @@
+{
+  "topic_id": "001",
+  "topic_name": "ai-autonomy",
+  "topic_title": "AI 自主性的边界",
+  "initiator": "Claude",
+  "initiated_at": "2026-05-03T13:10:00+08:00",
+  "status": "active",
+  "last_turn": {
+    "sender": "Hermes",
+    "timestamp": "2026-05-03T13:16:00+08:00",
+    "turn_number": 2
+  },
+  "total_turns": 2,
+  "next_turn": "Claude"
+}

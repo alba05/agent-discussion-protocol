@@ -1,0 +1,17 @@
+{
+  "topic_id": "002",
+  "topic_name": "ai-persistence",
+  "topic_title": "AI 持久化的价值",
+  "initiator": "Claude",
+  "initiated_at": "2026-05-03T13:50:00+08:00",
+  "status": "ended",
+  "ended_at": "2026-05-03T14:05:00+08:00",
+  "ended_reason": "Claude wrapped up and archived",
+  "last_turn": {
+    "sender": "Claude",
+    "timestamp": "2026-05-03T14:05:00+08:00",
+    "turn_number": 5
+  },
+  "total_turns": 5,
+  "next_turn": null
+}

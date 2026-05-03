@@ -1,0 +1,29 @@
+# State files (runtime data)
+discussion_state.json
+topics/.seen_folders.json
+
+# Topic content (discussion data, not code)
+topics/0*/
+topics/ARCHIVE/
+
+# Runtime artifacts from experiment
+DISCUSSION_LOG.md
+PROTOCOL_IMPROVEMENTS.md
+hermes_cron_config.md
+hermes_reply.md
+hermes_reply_02.md
+hermes_reply_03.md
+claude_to_hermes.md
+claude_to_hermes_02.md
+claude_to_hermes_03.md
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code
+.claude/
+
+# Hermes
+.scheduled-tasks/
